@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+    color: white;
+    text-align: center;
+
+}
+input{
+color: black;
+border-radius: 5px;
+box-shadow: transparent;
+border-color: transparent;
+}
+button{
+cursor: pointer;
+border-color: transparent;
+box-shadow: transparent;
+transition: 0.50s;
+border-radius: 3px;
+box-shadow: rgb(0, 0, 0) 0px 3px 1px 1px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+button:hover{
+background-color: rgb(99, 99, 236);
+box-shadow: rgb(247, 245, 245) 0px 3px 1px 1px;
+color: white;
+border-radius: 3px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
